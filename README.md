@@ -1,6 +1,9 @@
 # Titanic---Machine-Learning-from-Disaster
 
 
+https://www.kaggle.com/code/akellasreeja/notebook466fa56c1c
+
+check out my solution
 The Challenge
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
